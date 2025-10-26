@@ -76,9 +76,9 @@
 
         num_sys {
             bindings = <
-  &mt KP_NUMLOCK KP_SLASH   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS       &kp C_VOLUME_UP  &kp HOME           &kp PSCRN     &kp PAGE_UP    &mt CAPSLOCK SCROLLLOCK
-  &kp KP_MULTIPLY           &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_PLUS        &kp C_MUTE       &kp LEFT           &kp UP_ARROW  &kp RIGHT      &kp INSERT
-  &mt KP_EQUAL KP_NUMBER_0                   &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3    &kp KP_DOT       &kp C_VOLUME_DOWN  &kp DOWN      &kp PAGE_DOWN  &kp PAUSE_BREAK
+  &mt KP_NUMLOCK KP_SLASH   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS       &kp C_VOLUME_UP  &kp HOME           &kp UP          &kp PAGE_UP    &mt CAPSLOCK SCROLLLOCK
+  &kp KP_MULTIPLY           &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_PLUS        &kp C_MUTE       &kp LEFT           &kp DOWN_ARROW  &kp RIGHT      &kp INSERT
+  &mt KP_EQUAL KP_NUMBER_0                   &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3    &kp KP_DOT       &kp C_VOLUME_DOWN  &kp PSCRN       &kp PAGE_DOWN  &kp PAUSE_BREAK
                                              &trans           &trans           &trans             &trans           &trans             &trans
             >;
         };
