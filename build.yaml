@@ -23,10 +23,11 @@ include:
     shield: qaz
   - board: nice_nano_v2
     shield: settings_reset
-  - board: sparkfun_pro_micro_rp2040
+  - board: rpi_pico
     shield: qaz
-  - board: sparkfun_pro_micro_rp2040
+  - board: rpi_pico
     shield: settings_reset
+
 
 
 
