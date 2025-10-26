@@ -27,10 +27,10 @@ include:
     shield: settings_reset
   - board: rpi_pico
     shield: qaz
-    snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: adafruit_kb2040
     shield: settings_reset
+
 
 
 
