@@ -10,7 +10,7 @@
 / {
     chosen {
         zmk,kscan = &kscan0;
-        zmk,physical-layout = &split_bar_layout;
+        zmk,physical-layout = &split_big_bar_transform;
     };
 
     split_big_bar_transform: split_big_bar_transform {
