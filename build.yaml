@@ -20,13 +20,14 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: qez
+    shield: QEZ
   - board: nice_nano_v2
     shield: settings_reset
   - board: sparkfun_pro_micro_rp2040
-    shield: qez
+    shield: QEZ
   - board: sparkfun_pro_micro_rp2040
     shield: settings_reset
+
 
 
 
