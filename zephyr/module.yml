@@ -1,1 +1,4 @@
-
+ame: zmk-keyboard-QEZ
+build:
+  settings:
+    board_root: .
