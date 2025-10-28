@@ -2,4 +2,4 @@
 # SPDX-License-Identifier: MIT
 
 config SHIELD_QEZ
-   def_bool $(shields_list_contains,qez)
+    def_bool $(shields_list_contains,qez)
