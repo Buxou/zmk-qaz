@@ -12,11 +12,6 @@
         zmk,matrix_transform = &split_big_bar_transform;
     };
 
-&physical_layout0 {
-    kscan = <&kscan0>; // Label of the kscan node this layout uses
-    transform = <&default_transform>; // Label of the matrix transform this layout uses
-};
-
     split_big_bar_transform: split_big_bar_transform {
         compatible = "zmk,matrix-transform";
         columns = <10>;
